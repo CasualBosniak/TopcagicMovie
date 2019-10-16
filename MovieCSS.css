@@ -1,11 +1,11 @@
 .mydiv { text-align: center; }
 ol { list-style-position: inside; }
-h2 { border-top: 4px solid #4fc02f; padding: 20px;}
-h2 { border-bottom: 4px solid #4fc02f; padding: 20px;}
-h1 {background-color: #4fc02f;
+h2 { border-top: 4px solid #ff0000; padding: 20px;}
+h2 { border-bottom: 4px solid #ff0000; padding: 20px;}
+h1 {background-color: #ff0000;
 	font-family: Georgia, "Times New Roman", serif;
 	text-align: center;
-	border-bottom: 2px dashed #4fc02f; 
+	border-bottom: 2px dashed #ff0000; 
 	margin-left: auto;
 	margin-right: auto;
 	width: 80%; }
@@ -14,5 +14,6 @@ background-position: center;
 background-size: cover;
 margin-left: auto;
 margin-right: auto;
-width: 80%; }
+width: 80%;
+color: #4d4dff; }
 
